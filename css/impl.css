@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+
+#players{
+    font-family: sans-serif;
+    width: 300px;
+    text-align: left;
+    display: inline-block;
+     border: 1px solid #bb8c07;
+     color: #fff;
+      border-collapse: separate;
+  border-spacing: 0;
+  
+}
+
+#players td, #players th{
+
+    padding: 10px 15px;
+    vertical-align: middle;
+}
+hr{
+    width:112%;
+    border-top: 2px solid #bb8c07;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+
+thead {
+  background: #395870;
+  background: linear-gradient(#49708f, #293f50);
+  color: #fff;
+  font-size: 11px;
+  text-transform: uppercase;
+}
+th:first-child {
+  border-top-left-radius: 5px;
+  text-align: left;
+}
+th:last-child {
+  border-top-right-radius: 5px;
+}
+
+td {
+  border-bottom: 1px solid #cecfd5;
+  border-right: 1px solid #cecfd5;
+}
+
+.text-offset {
+  color: #7c7c80;
+  font-size: 12px;
+}
+
+
+              
