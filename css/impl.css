@@ -1,5 +1,11 @@
 body{
     background-color: black;
+    
+}
+.container{
+    width:100%;
+    margin:auto;
+    margin:10px;
 }
 
 #players{
@@ -7,9 +13,8 @@ body{
     width: 300px;
     text-align: left;
     display: inline-block;
-     border: 1px solid #bb8c07;
-     color: #fff;
-      border-collapse: separate;
+    color: #fff;
+    border-collapse: separate;
   border-spacing: 0;
   
 }
@@ -44,8 +49,8 @@ th:last-child {
 }
 
 td {
-  border-bottom: 1px solid #cecfd5;
-  border-right: 1px solid #cecfd5;
+  border-bottom: 1px solid grey;
+  
 }
 
 .text-offset {
