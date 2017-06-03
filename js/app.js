@@ -83,8 +83,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     totalpoints: '-'
                 }
             }
-        
-               /* total: $scope.totalPoints($scope.aanand.players),*/
+
         },
       
         adi: {
@@ -668,4 +667,5 @@ $scope.totalScore = function(name){
     
     return score;
 };
+
 }]);

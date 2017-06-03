@@ -9,8 +9,10 @@ body{
 }
 
 #players{
+    
     font-family: sans-serif;
     width: 300px;
+    margin:15px;
     text-align: left;
     display: inline-block;
     color: #fff;
@@ -18,6 +20,7 @@ body{
   border-spacing: 0;
   
 }
+
 
 #players td, #players th{
 
