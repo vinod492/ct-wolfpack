@@ -20,7 +20,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player3: {
                     name: "Malinga",
                     value:'13m',
-                    totalpoints: '-'
+                    totalpoints: 6
                 },
                 player4: {
                     name: "Thisara",
@@ -70,12 +70,12 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player13: {
                     name: "Behardien",
                     value:'5m',
-                    totalpoints: '-'
+                    totalpoints: 0
                 },
                 player14: {
                     name: "K mendis",
                     value:'2m',
-                    totalpoints: '-'
+                    totalpoints: 15
                 },
                 player15: {
                     name: "Neesham",
@@ -100,14 +100,14 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     totalpoints: '-'
                 },
                 player3: {
-                    name: "DeKock",
+                    name: "Q DeKock",
                     value:'33m',
-                    totalpoints: '-'
+                    totalpoints: 16
                 },
                 player4: {
                     name: "K Perera",
                     value:'5m',
-                    totalpoints: '-'
+                    totalpoints: 0
                 },
                 player5: {
                     name: "Mustafizur",
@@ -133,12 +133,12 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player9: {
                     name: "Lakmal",
                     value:'3m',
-                    totalpoints: '-'
+                    totalpoints: 48
                 },
                 player10: {
                     name: "Gunaratne",
                     value:'5m',
-                    totalpoints: '-'
+                    totalpoints: -4
                 },
                 player11: {
                     name: "Bumrah",
@@ -153,12 +153,12 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player13: {
                     name: "Phehlukwayo",
                     value:'10m',
-                    totalpoints: '-'
+                    totalpoints: 0
                 },
                 player14: {
                     name: "Pretorius",
                     value:'7m',
-                    totalpoints: '-'
+                    totalpoints: 0
                 },
                 player15: {
                     name: "Hardik",
@@ -178,12 +178,12 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player2: {
                     name: "Ab deVilliers",
                     value:'36m',
-                    totalpoints: '-'
+                    totalpoints: 4
                 },
                 player3: {
                     name: "Mathews",
                     value:'16m',
-                    totalpoints: '-'
+                    totalpoints: 0
                 },
                 player4: {
                     name: "Ashwin",
@@ -228,12 +228,12 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player12: {
                     name: "Pradeep",
                     value:'6m',
-                    totalpoints: '-'
+                    totalpoints: 82
                 },
                 player13: {
                     name: "Dickwella",
                     value:'4m',
-                    totalpoints: '-'
+                    totalpoints: 81
                 },
                 player14: {
                     name: "Yuvraj",
@@ -258,7 +258,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player2: {
                     name: "Chandimal",
                     value:'8m',
-                    totalpoints: '-'
+                    totalpoints: 15
                 },
                 player3: {
                     name: "Finch",
@@ -273,7 +273,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player5: {
                     name: "Rabada",
                     value:'22m',
-                    totalpoints: '-'
+                    totalpoints: -3
                 },
                 player6: {
                     name: "Amir",
@@ -283,7 +283,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player7: {
                     name: "Kulashekara",
                     value:'12m',
-                    totalpoints: '-'
+                    totalpoints: 0
                 },
                 player8: {
                     name: "Shezad",
@@ -313,7 +313,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player13: {
                     name: "Tahir",
                     value:'21m',
-                    totalpoints: '-'
+                    totalpoints: 0
                 },
                 player14: {
                     name: "Wasim",
@@ -384,7 +384,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player11: {
                     name: "Sandakan",
                     value:'9m',
-                    totalpoints: '-'
+                    totalpoints: 0
                 },
                 player12: {
                     name: "Woakes",
@@ -399,7 +399,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player14: {
                     name: "Maharaj",
                     value:'1m',
-                    totalpoints: '-'
+                    totalpoints: 0
                 },
                 player15: {
                     name: "Mehedi",
@@ -425,7 +425,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player3: {
                     name: "Morris",
                     value:'24m',
-                    totalpoints: '-'
+                    totalpoints: 25
                 },
                 player4: {
                     name: "Moeen",
@@ -445,22 +445,22 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player7: {
                     name: "Miller",
                     value:'28m',
-                    totalpoints: '-'
+                    totalpoints: 19
                 },
                 player8: {
                     name: "Duminy",
                     value:'20m',
-                    totalpoints: '-'
+                    totalpoints: 81
                 },
                 player9: {
                     name: "Parnell",
                     value:'15m',
-                    totalpoints: '-'
+                    totalpoints: 0
                 },
                 player10: {
                     name: "Tharanga",
                     value:'8m',
-                    totalpoints: '-'
+                    totalpoints: 22
                 },
                 player11: {
                     name: "Fahim",
@@ -495,12 +495,12 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player1: {
                     name: "Amla",
                     value:'35m',
-                    totalpoints: '-'
+                    totalpoints: 151
                 },
                 player2: {
-                    name: "Faf",
+                    name: "F du Plesis",
                     value:'25m',
-                    totalpoints: '-'
+                    totalpoints: 116
                 },
                 player3: {
                     name: "Jaddu",
@@ -560,7 +560,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player14: {
                     name: "Kapugedara",
                     value:'1m',
-                    totalpoints: '-'
+                    totalpoints: 15
                 },
                 player15: {
                     name: "Wood",
@@ -580,7 +580,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 player2: {
                     name: "Root",
                     value:'30m',
-                    totalpoints: '-'
+                    totalpoints: 259
                 },
                 player3: {
                     name: "Rohit",

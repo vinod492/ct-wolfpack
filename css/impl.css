@@ -61,5 +61,13 @@ td {
   font-size: 12px;
 }
 
+.totalScore{
+    font-weight: bolder;
+    color:cornflowerblue;
+}
+#points{
+    text-align: left;
+}
+
 
               
