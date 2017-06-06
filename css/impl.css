@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    margin:0;
     
 }
 .container{
@@ -7,6 +8,24 @@ body{
     margin:auto;
     margin:10px;
 }
+#rankings__container{
+    
+    width:30%;
+}
+
+
+#ranks{
+    
+    font-family: sans-serif;
+    width: 150px;
+    margin:15px;
+    text-align: left;
+    display: inline-block;
+    color: #fff;
+
+  
+}
+
 
 #players{
     
@@ -21,6 +40,25 @@ body{
   
 }
 
+header {
+   
+    background-color: dodgerblue;
+    position: relative;
+    height:80px;
+}
+
+.btn{
+   
+    position: absolute;
+    right: 30px;
+    bottom: 20px;
+    top:20px;
+    margin:5px;
+}
+
+.clearfix:after{
+    content:""
+}
 
 #players td, #players th{
 
