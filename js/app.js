@@ -101,8 +101,8 @@ myApp.controller('myController', ['$scope', function ($scope) {
 
         },
       
-        adi: {
-            name: "adi",
+        Adi: {
+            name: "Adi",
             players: {
                 player1: {
                     name: "Hafeez",
@@ -112,9 +112,9 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 },
                 player2: {
                     name: "Starc",
-                    country:"SA",
+                    country:"AUS",
                     value:'32m',
-                    totalpoints: 229
+                    totalpoints: 0
                 },
                 player3: {
                     name: "Q DeKock",
@@ -356,7 +356,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                 },
                 player11: {
                     name: "Corey",
-                    country:"AUS",
+                    country:"NZ",
                     value:'18m',
                     totalpoints: '-'
                 },
@@ -456,10 +456,10 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     totalpoints: 0
                 },
                 player12: {
-                    name: "Finn",
+                    name: "Finn(woakes)",
                     country:"ENG",
                     value:'21m',
-                    totalpoints: 0
+                    totalpoints: 36
                 },
                 player13: {
                     name: "Zampa",
@@ -789,43 +789,28 @@ $scope.totalScore = function(participant){
 };
     
 
-$scope.showrank = true;
-$scope.hiderank = false;
-      $scope.teamScores=[];
+
+$scope.teamScores = [];
 
 $scope.showRankings = function(){
  
-    $scope.showrank = false; 
-    $scope.hiderank = true;
-    var obj={};
+    $scope.showrank = true; 
+   
+   
     
-    angular.forEach($scope.allParticipants,function(participants,key){
-         angular.forEach(participants, function(value,key){
-             obj[key]=value;
-            
-        /*$scope.teamScores.push(obj);
-            
-        console.log($scope.teamScores);*/
-    
+    angular.forEach ($scope.allParticipants, function(participant, key){
+
+     $scope.teamScores.push(participant);
+
        
    });
     
-      console.log(obj); 
-        $scope.teamScores.push(obj);
-    
-        console.log($scope.teamScores);
-        
-    });
-    
-  
-    
-    console.log($scope.teamScores) ;   
-    };
- 
+};
 
 $scope.hideRankings = function(){
-    $scope.hiderank = false;
-    $scope.showrank = true; 
+   
+    $scope.showrank = false; 
+   
     
 };
 

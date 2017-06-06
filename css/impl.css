@@ -17,11 +17,12 @@ body{
 #ranks{
     
     font-family: sans-serif;
+    font-size: 12px;
     width: 150px;
     margin:15px;
     text-align: left;
     display: inline-block;
-    color: #fff;
+    color: orange;
 
   
 }
@@ -30,13 +31,14 @@ body{
 #players{
     
     font-family: sans-serif;
+    font-size: 12px;
     width: 300px;
     margin:15px;
     text-align: left;
     display: inline-block;
     color: #fff;
     border-collapse: separate;
-  border-spacing: 0;
+    border-spacing: 0;
   
 }
 
@@ -107,5 +109,17 @@ td {
     text-align: left;
 }
 
-
+#list{
+color: orange;
+font-size: 14px;
+font-weight: bold;
+}
               
+#showrank, #hiderank{
+color: white;
+border-radius: 4px;
+text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+margin-top: 20px;
+background: rgb(28, 184, 65);
+
+}
