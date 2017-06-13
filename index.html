@@ -29,26 +29,13 @@
     </div>
     <div ng-show=showrank>
             <ol id='list'>
-                <li ng-repeat="score in teamScores | orderBy:'-total'">{{score.name}}&nbsp;&nbsp;&nbsp;{{score.total}}</li>
+                <li ng-repeat="score in teamScores | orderBy:'-total'">{{score.name}}&nbsp;&nbsp;&nbsp;<span>{{score.total}}</span></li>
 
             </ol>
    </div>
    
-    <!--  <div>
-            <table id="ranks">
-                <tr>
-                    <th>Team</th>
-                    <th>Total</th>
-                </tr>
-                <tr ng-repeat="participant in allParticipants"> 
-                   <td>{{participant.name }}</td>
-                      <td>{{participant.total }}</td>  
-                </tr>
-            
-            
-            </table>
-        
-        </div>-->
+   
+       
 
 
     <div class="container">

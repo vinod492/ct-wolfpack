@@ -11,43 +11,43 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Warner",
                     country:"AUS",
                     value:'35m',
-                    totalpoints: '-'
+                    totalpoints: 23
                 },
                 player2: {
-                    name: "Willimson",
+                    name: "Williamson",
                     country:"NZ",
                     value:'30m',
-                    totalpoints: '-'
+                    totalpoints: 174
                 },
                 player3: {
                     name: "Malinga",
                     country:"SL",
                     value:'13m',
-                    totalpoints: 7
+                    totalpoints: 77
                 },
                 player4: {
                     name: "Thisara",
                     country:"SL",
                     value:'5m',
-                    totalpoints: 0
+                    totalpoints: 55
                 },
                 player5: {
                     name: "Azhar ali",
                     country:"PAK",
                     value:'5m',
-                    totalpoints: 74
+                    totalpoints: 88
                 },
                 player6: {
                     name: "Ross taylor",
                     country:"NZ",
                     value:'10m',
-                    totalpoints: '-'
+                    totalpoints: 117
                 },
                 player7: {
                     name: "Morne morkel",
                     country:"SA",
                     value:'8m',
-                    totalpoints: 50
+                    totalpoints: 266
                 },
                 player8: {
                     name: "Riaz",
@@ -59,7 +59,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Umesh",
                     country:"IND",
                     value:'10m',
-                    totalpoints: 167
+                    totalpoints: 173
                 },
                 player10: {
                     name: "Rahane",
@@ -71,13 +71,13 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Hales",
                      country:"ENG",
                     value:'17m',
-                    totalpoints: 178
+                    totalpoints: 291
                 },
                 player12: {
                     name: "Cummins",
                     country:"AUS",
                     value:'15m',
-                    totalpoints: '-'
+                    totalpoints: 6
                 },
                 player13: {
                     name: "Behardien",
@@ -89,13 +89,13 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "K mendis",
                     country:"SL",
                     value:'2m',
-                    totalpoints: 30
+                    totalpoints: 205
                 },
                 player15: {
                     name: "Neesham",
                    country:"NZ",
                     value:'12m',
-                    totalpoints: '-'
+                    totalpoints: 51
                 }
             }
 
@@ -108,67 +108,67 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Hafeez",
                     country:"PAK",
                     value:'14m',
-                    totalpoints: 30
+                    totalpoints: 119
                 },
                 player2: {
                     name: "Starc",
                     country:"AUS",
                     value:'32m',
-                    totalpoints: 0
+                    totalpoints: 40
                 },
                 player3: {
                     name: "Q DeKock",
                     country:"SA",
                     value:'33m',
-                    totalpoints: 26
+                    totalpoints: 126
                 },
                 player4: {
                     name: "K Perera",
                     country:"SL",
                     value:'5m',
-                    totalpoints: 38
+                    totalpoints: 121
                 },
                 player5: {
                     name: "Mustafizur",
                      country:"BAN",
                     value:'20m',
-                    totalpoints: 21
+                    totalpoints: 95
                 },
                 player6: {
                     name: "Sabbir Rahman",
                     country:"BAN",
                     value:'8m',
-                    totalpoints: 68
+                    totalpoints: 88
                 },
                 player7: {
                     name: "Taskin",
                     country:"BAN",
                     value:'7m',
-                    totalpoints: '-'
+                    totalpoints: 90
                 },
                 player8: {
                     name: "Hasan ali",
-                     country:"BAN",
+                     country:"PAK",
                     value:'5m',
-                    totalpoints: 14
+                    totalpoints: 252
                 },
                 player9: {
                     name: "Lakmal",
                     country:"SL",
                     value:'3m',
-                    totalpoints: 42
+                    totalpoints: 80
                 },
                 player10: {
                     name: "Gunaratne",
                     country:"SL",
                     value:'5m',
-                    totalpoints: -4
+                    totalpoints: 124
                 },
                 player11: {
                     name: "Bumrah",
                    country:"IND",
                     value:'20m',
-                    totalpoints: 24
+                    totalpoints: 200
                 },
                 player12: {
                     name: "Stoinis",
@@ -180,7 +180,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Phehlukwayo",
                    country:"SA",
                     value:'10m',
-                    totalpoints: 0
+                    totalpoints: 11
                 },
                 player14: {
                     name: "Pretorius",
@@ -192,7 +192,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Hardik",
                     country:"IND",
                     value:'13m',
-                    totalpoints: 159
+                    totalpoints: 250
                 }
         }
     },
@@ -201,57 +201,57 @@ myApp.controller('myController', ['$scope', function ($scope) {
             players: {
                 player1: {
                     name: "Shakib",
-                    country:"PAK",
+                    country:"BAN",
                     value:'21m',
-                    totalpoints: 24
+                    totalpoints: 240
                 },
                 player2: {
                     name: "Ab deVilliers",
                     country:"SA",
                     value:'36m',
-                    totalpoints: 4
+                    totalpoints: 64
                 },
                 player3: {
                     name: "Mathews",
                     country:"SL",
                     value:'16m',
-                    totalpoints: 0
+                    totalpoints: 92
                 },
                 player4: {
                     name: "Ashwin",
                     country:"IND",
                     value:'15m',
-                    totalpoints: 0
+                    totalpoints: 62
                 },
                 player5: {
                     name: "Musta Rahim",
                     country:"BAN",
                     value:'9m',
-                    totalpoints: 130
+                    totalpoints: 157
                 },
                 player6: {
                     name: "Roy",
                      country:"ENG",
                     value:'19m',
-                    totalpoints: 23
+                    totalpoints: 92
                 },
                 player7: {
                     name: "Head",
                     country:"AUS",
                     value:'6m',
-                    totalpoints: '-'
+                    totalpoints: 110
                 },
                 player8: {
                     name: "Mahmadullah",
                     country:"BAN",
                     value:'5m',
-                    totalpoints: 6
+                    totalpoints: 173
                 },
                 player9: {
                     name: "Santner",
                     country:"NZ",
                     value:'19m',
-                    totalpoints: '-'
+                    totalpoints: 62
                 },
                 player10: {
                     name: "Latham",
@@ -263,31 +263,31 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Jake ball",
                      country:"ENG", 
                     value:'18m',
-                    totalpoints: 28
+                    totalpoints: 195
                 },
                 player12: {
                     name: "Pradeep",
                     country:"SL",
                     value:'6m',
-                    totalpoints: 85
+                    totalpoints: 112
                 },
                 player13: {
                     name: "Dickwella",
                     country:"SL",
                     value:'4m',
-                    totalpoints: 94
+                    totalpoints: 121
                 },
                 player14: {
                     name: "Yuvraj",
                     country:"IND",
                     value:'14m',
-                    totalpoints: 150
+                    totalpoints: 187
                 },
                 player15: {
                     name: "M Hossain",
                     country:"BAN",
                     value:'1m',
-                    totalpoints: -1
+                    totalpoints: 163
                 }
         }
     },
@@ -298,37 +298,37 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Smith",
                     country:"AUS",
                     value:'29m',
-                    totalpoints: '-'
+                    totalpoints: 61
                 },
                 player2: {
                     name: "Chandimal",
                     country:"SL",
                     value:'8m',
-                    totalpoints: 24
+                    totalpoints: 49
                 },
                 player3: {
                     name: "Finch",
                     country:"AUS",
                     value:'21m',
-                    totalpoints: '-'
+                    totalpoints: 109
                 },
                 player4: {
                     name: "Boult",
                     country:"NZ",
                     value:'10m',
-                    totalpoints: '-'
+                    totalpoints: 122
                 },
                 player5: {
                     name: "Rabada",
                     country:"SA",
                     value:'22m',
-                    totalpoints: 54
+                    totalpoints: 175
                 },
                 player6: {
                     name: "Amir",
                     country:"PAK",
                     value:'12m',
-                    totalpoints: 50
+                    totalpoints: 80
                 },
                 player7: {
                     name: "Kulashekara",
@@ -352,37 +352,37 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Hazlewood",
                     country:"AUS",
                     value:'16m',
-                    totalpoints: '-'
+                    totalpoints: 77
                 },
                 player11: {
                     name: "Corey",
                     country:"NZ",
                     value:'18m',
-                    totalpoints: '-'
+                    totalpoints: 117
                 },
                 player12: {
                     name: "Milne",
                     country:"NZ",
                     value:'3m',
-                    totalpoints: '-'
+                    totalpoints: 157
                 },
                 player13: {
                     name: "Tahir",
                     country:"SA",
                     value:'21m',
-                    totalpoints: 263
+                    totalpoints: 336
                 },
                 player14: {
                     name: "Wasim",
                     country:"PAK",
                     value:'7m',
-                    totalpoints: -16
+                    totalpoints: 120
                 },
                 player15: {
                     name: "Kedar",
                     country:"IND",
                     value:'7m',
-                    totalpoints: 40
+                    totalpoints: 104
                 }
         }
     },
@@ -393,13 +393,13 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Kohli",
                     country:"IND",
                     value:'36m',
-                    totalpoints: 154
+                    totalpoints: 302
                 },
                 player2: {
                     name: "Maxwell",
                     country:"AUS",
                     value:'33m',
-                    totalpoints: '-'
+                    totalpoints: 15
                 },
                 player3: {
                     name: "Sohail",
@@ -417,19 +417,19 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Tamim iqbal",
                     country:"BAN",
                     value:'11m',
-                    totalpoints: 209
+                    totalpoints: 228
                 },
                 player6: {
                     name: "Dhoni",
                     country:"IND",
                     value:'23m',
-                    totalpoints: 25
+                    totalpoints: 216
                 },
                 player7: {
                     name: "Azam",
                     country: "PAK",
                     value:'20m',
-                    totalpoints: 22
+                    totalpoints: 72
                 },
                 player8: {
                     name: "Kayes",
@@ -447,7 +447,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Junaid khan",
                     country:"PAK",
                     value:'6m',
-                    totalpoints: 0
+                    totalpoints: 82
                 },
                 player11: {
                     name: "Sandakan",
@@ -465,7 +465,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Zampa",
                     country:"AUS",
                     value:'12m',
-                    totalpoints: '-'
+                    totalpoints: 7
                 },
                 player14: {
                     name: "Maharaj",
@@ -477,7 +477,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Mehedi Hasan",
                     country:"BAN",
                     value:'1m',
-                    totalpoints: 13
+                    totalpoints: 0
                 }
         }
     },
@@ -489,31 +489,31 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Guptill",
                     country:"NZ",
                     value:'16m',
-                    totalpoints: '-'
+                    totalpoints: 66
                 },
                 player2: {
                     name: "Malik",
                     country:"PAK",
                     value:'20m',
-                    totalpoints: 35
+                    totalpoints: 68
                 },
                 player3: {
                     name: "Morris",
                     country:"SA",
                     value:'24m',
-                    totalpoints: 125
+                    totalpoints: 190
                 },
                 player4: {
                     name: "Moeen",
                     country:"ENG",
                     value:'19m',
-                    totalpoints: 36
+                    totalpoints: 84
                 },
                 player5: {
-                    name: "Butler",
+                    name: "Buttler",
                      country:"ENG",
                     value:'16m',
-                    totalpoints: 25
+                    totalpoints: 226
                 },
                 player6: {
                     name: "Pattinson",
@@ -525,19 +525,19 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Miller",
                     country:"SA",
                     value:'28m',
-                    totalpoints: 44
+                    totalpoints: 137
                 },
                 player8: {
                     name: "Duminy",
                     country:"SA",
                     value:'20m',
-                    totalpoints: 116
+                    totalpoints: 134
                 },
                 player9: {
                     name: "Parnell",
                     country:"SA",
                     value:'15m',
-                    totalpoints: 59
+                    totalpoints: 53
                 },
                 player10: {
                     name: "Tharanga",
@@ -573,7 +573,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Shadab",
                     country:"PAK",
                     value:'14m',
-                    totalpoints: 62
+                    totalpoints: 92
                 }
         }
     },
@@ -584,31 +584,31 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Amla",
                     country:"SA",
                     value:'35m',
-                    totalpoints: 161
+                    totalpoints: 223
                 },
                 player2: {
                     name: "F du Plesis",
                     country:"SA",
                     value:'25m',
-                    totalpoints: 126
+                    totalpoints: 189
                 },
                 player3: {
                     name: "Jadeja",
                     country:"IND",
                     value:'14m',
-                    totalpoints: 120
+                    totalpoints: 201
                 },
                 player4: {
                     name: "Mortaza",
                      country:"BAN",
                     value:'14m',
-                    totalpoints: 38
+                    totalpoints: 88
                 },
                 player5: {
                     name: "Southee",
                     country:"NZ",
                     value:'10m',
-                    totalpoints: '-'
+                    totalpoints: 276
                 },
                 player6: {
                     name: "Mclenaghan",
@@ -620,7 +620,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Morgan",
                      country:"ENG",
                     value:'25m',
-                    totalpoints: 150
+                    totalpoints: 344
                 },
                 player8: {
                     name: "Billings",
@@ -632,7 +632,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Ronchi",
                     country:"NZ",
                     value:'15m',
-                    totalpoints: '-'
+                    totalpoints: 10
                 },
                 player10: {
                     name: "Dinesh",
@@ -644,31 +644,31 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Dhawan",
                     country:"IND",
                     value:'14m',
-                    totalpoints: 117
+                    totalpoints: 453
                 },
                 player12: {
                     name: "Plunkett",
                      country:"ENG",
                     value:'13m',
-                    totalpoints: 177
+                    totalpoints: 423
                 },
                 player13: {
                     name: "Wade",
                     country:"AUS",
                     value:'6m',
-                    totalpoints: '-'
+                    totalpoints: 17
                 },
                 player14: {
-                    name: "Kapugedara",
+                    name: "Kapugedara10(gunathilaka)",
                     country:"SL",
                     value:'1m',
-                    totalpoints: 10
+                    totalpoints: 154
                 },
                 player15: {
                     name: "Wood",
                      country:"ENG",
                     value:'7m',
-                    totalpoints: 39
+                    totalpoints: 357
                 }
         }
     },
@@ -679,55 +679,55 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Stokes",
                     country:"ENG",
                     value:'36m',
-                    totalpoints: 55
+                    totalpoints: 366
                 },
                 player2: {
                     name: "Root",
                     country:"ENG",
                     value:'30m',
-                    totalpoints: 259
+                    totalpoints: 425
                 },
                 player3: {
                     name: "Rohit",
                     country:"IND",
                     value:'21m',
-                    totalpoints: 123
+                    totalpoints: 259
                 },
                 player4: {
                     name: "Sarfaraz",
                     country:"PAK",
                     value:'14m',
-                    totalpoints: 32
+                    totalpoints: 42
                 },
                 player5: {
                     name: "Bhuvi",
                     country:"IND",
                     value:'25m',
-                    totalpoints: 79
+                    totalpoints: 275
                 },
                 player6: {
                     name: "Henriques",
                     country:"AUS",
                     value:'4m',
-                    totalpoints: '-'
+                    totalpoints: 19
                 },
                 player7: {
                     name: "Sarkar",
                      country:"BAN",
                     value:'3m',
-                    totalpoints: 30
+                    totalpoints: 38
                 },
                 player8: {
                     name: "R Hossain",
                     country:"BAN",
                     value:'2m',
-                    totalpoints: -4
+                    totalpoints: 36
                 },
                 player9: {
                     name: "Broom",
                     country:"NZ",
                     value:'3m',
-                    totalpoints: '-'
+                    totalpoints: 43
                 },
                 player10: {
                     name: "Prassana",
@@ -745,7 +745,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Rashid",
                     country:"ENG",
                     value:'13m',
-                    totalpoints: 0
+                    totalpoints: 389
                 },
                 player13: {
                     name: "Hastings",
@@ -763,7 +763,7 @@ myApp.controller('myController', ['$scope', function ($scope) {
                     name: "Fakhar Zaman",
                     country:"PAK",
                     value:'3m',
-                    totalpoints: 0
+                    totalpoints: 63
                 },
                 
         }
